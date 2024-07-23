@@ -1,4 +1,4 @@
-# Project Name: Brain Tumor Classification with Convolutional Neural Networks
+# Brain Tumor Classification with Convolutional Neural Networks
 
 ## Introduction
 
